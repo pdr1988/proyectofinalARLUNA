@@ -1,0 +1,99 @@
+#mark{
+    
+    margin-left: auto; 
+    margin-right: auto;
+    border: 10px;    
+    border-color: rgb(0, 162, 255);
+    border-style: solid;
+}
+#listUsers{
+    margin-left: 10cm;
+    font-size: large;
+    font-weight: bold;
+    color:white;
+    font-style: Impact;
+}
+
+#goodMorning{
+    margin-left: 2cm; 
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(7, 84, 129);
+    font-style: Impact;
+}
+#usuario{
+    margin-left: 2.5cm;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(7, 84, 129);
+    font-style: Impact;
+
+}
+#lista{
+    margin-left: 12cm;
+    font-size: xx-large;
+    font-weight: bold;
+    color:white ;
+    font-style: Impact;
+    
+}
+#suRutina{
+    margin-left: 12cm;
+    font-size: xx-large;
+    font-weight: bold;
+    color:white;
+    font-style: Impact;
+}
+#indiceMC{
+    margin-left: 2.5cm;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(7, 84, 129);
+    font-style: Impact;
+}
+#valor{
+    margin-left: 2.5cm;
+}
+#peso{
+    margin-left: 2.5cm;
+}
+#altura{
+    margin-left: 0.7cm;
+}
+#botonIMC{
+    margin-left: 0.7cm;
+}
+#otroDia{
+    margin-left: 2.5cm;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(7, 84, 129);
+    font-style: Impact;
+}
+#proxima{
+    margin-left: 2.5cm;
+}
+#botonprox{
+    margin-left: 0.7cm;
+}
+#rutinaFutura{
+    margin-left: 12cm;
+    font-size: xx-large;
+    font-weight: bold;
+    color:white;
+    font-style: Impact;
+}
+#listaFutura{
+    margin-left: 12cm;
+    font-size: xx-large;
+    font-weight: bold;
+    color:white;
+    font-style: Impact;
+}
+#imc{
+    margin-left: 12cm;
+    font-size: xx-large;
+    font-weight: bold;
+    color:white;
+    font-style: Impact; 
+}
